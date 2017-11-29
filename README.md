@@ -6,8 +6,8 @@ Click <a href="http://www.sciencedirect.com/science/article/pii/S095070511500354
 
 Short description of contained codes:
 
-- <b>main_GFRNN.m<\b> : contains the implementation of GFRNN.
+- <b>main_GFRNN.m</b>: contains the implementation of GFRNN.
 
-- GMCalc.m : is a function that calculates the Geometric Mean of classification by taking into input the predicted labels and the actual labels. The geometric mean is a common way to evaluate the effectiveness of a classification algorithm on imbalanced datasets.
+- <b>GMCalc.m</b>: is a function that calculates the Geometric Mean of classification by taking into input the predicted labels and the actual labels. The geometric mean is a common way to evaluate the effectiveness of a classification algorithm on imbalanced datasets.
 
-- Example_Imbalanced_Dataset_Test.mat : and "Example_Imbalanced_Dataset_Train.mat" are two matrixes created for educational purposes to demonstrate how to implement GFRNN on a given dataset.
+- <b>Example_Imbalanced_Dataset_Test.mat</b>: and "Example_Imbalanced_Dataset_Train.mat" are two matrixes created for educational purposes to demonstrate how to implement GFRNN on a given dataset.
